@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "گوشی موبایل سامسونگ A55",
+      "price": 18900000,
+      "category": "موبایل",
+      "stock": 5,
+      "description": "گوشی میان‌رده با صفحه‌نمایش Super AMOLED",
+      "createdAt": "2025-10-06T09:00:00Z",
+      "user_id":"user_1"
+    },
+    {
+      "id": 2,
+      "name": "لپتاپ لنوو Ideapad 3",
+      "price": 23500000,
+      "category": "لپتاپ",
+      "stock": 3,
+      "description": "مناسب برای کارهای روزمره و دانشجویی",
+      "createdAt": "2025-10-06T10:00:00Z",
+      "user_id":"user_1"
+    },
+        {
+      "id": 3,
+      "name": "گوشی موبایل سامسونگ A55",
+      "price": 18900000,
+      "category": "موبایل",
+      "stock": 5,
+      "description": "گوشی میان‌رده با صفحه‌نمایش Super AMOLED",
+      "createdAt": "2025-10-06T09:00:00Z",
+      "user_id":"user_1"
+    },
+    {
+      "id": 4,
+      "name": "لپتاپ لنوو Ideapad 3",
+      "price": 23500000,
+      "category": "لپتاپ",
+      "stock": 3,
+      "description": "مناسب برای کارهای روزمره و دانشجویی",
+      "createdAt": "2025-10-06T10:00:00Z",
+      "user_id":"user_2"
+    },
+       {
+      "id": 5,
+      "name": "لپتاپ لنوو Ideapad 3",
+      "price": 23500000,
+      "category": "لپتاپ",
+      "stock": 3,
+      "description": "مناسب برای کارهای روزمره و دانشجویی",
+      "createdAt": "2025-10-06T10:00:00Z",
+       "user_id":"user_2"
+    },
+    {
+      "id": 6,
+      "name": "گوشی موبایل سامسونگ A55",
+      "price": 18900000,
+      "category": "موبایل",
+      "stock": 5,
+      "description": "گوشی میان‌رده با صفحه‌نمایش Super AMOLED",
+      "createdAt": "2025-10-06T09:00:00Z",
+       "user_id":"user_3"
+    },
+    {
+      "id": 7,
+      "name": "لپتاپ لنوو Ideapad 3",
+      "price": 23500000,
+      "category": "لپتاپ",
+      "stock": 3,
+      "description": "مناسب برای کارهای روزمره و دانشجویی",
+      "createdAt": "2025-10-06T10:00:00Z",
+       "user_id":"user_2"
+    },
+        {
+      "id": 8,
+      "name": "گوشی موبایل سامسونگ A55",
+      "price": 18900000,
+      "category": "موبایل",
+      "stock": 5,
+      "description": "گوشی میان‌رده با صفحه‌نمایش Super AMOLED",
+      "createdAt": "2025-10-06T09:00:00Z",
+       "user_id":"user_3"
+    },
+    {
+      "id": 9,
+      "name": "لپتاپ لنوو Ideapad 3",
+      "price": 23500000,
+      "category": "لپتاپ",
+      "stock": 3,
+      "description": "مناسب برای کارهای روزمره و دانشجویی",
+      "createdAt": "2025-10-06T10:00:00Z",
+       "user_id":"user_2"
+    },
+       {
+      "id": 10,
+      "name": "لپتاپ لنوو Ideapad 3",
+      "price": 23500000,
+      "category": "لپتاپ",
+      "stock": 3,
+      "description": "مناسب برای کارهای روزمره و دانشجویی",
+      "createdAt": "2025-10-06T10:00:00Z",
+       "user_id":"user_2"
+    }
+  ]
+}
