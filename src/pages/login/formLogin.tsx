@@ -44,7 +44,6 @@ const FormLogin = (props: hasRegister) => {
     const userId: any = userDataLocal?.filter(
       (value: any) => value.phone === valueLogin.phone
     );
-    console.log("userId", userId);
     const userWithId = {
       ...valueLogin,
       user_id: userId[0]?.user_id,

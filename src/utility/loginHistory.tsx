@@ -12,6 +12,5 @@ export const logHistory = (
     time: moment().format("YYYY/MM/DD HH:mm"),
   };
   const updateDataTime = [...historyState, newUserLog];
-  console.log("newUserLog", updateDataTime);
   localStorage.setItem("last_action_user", JSON.stringify(updateDataTime));
 };

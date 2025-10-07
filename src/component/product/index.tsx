@@ -15,22 +15,15 @@ const Product = () => {
     },
   });
 
-  console.log("userIdLogin", userIdLogin);
   useEffect(() => {
     const userLogin = JSON.parse(localStorage.getItem("user_login") || "{}");
 
     const filteredProducts =
       data?.filter((item: any) => item.user_id === userLogin.user_id) || [];
-    console.log(
-      "Filtered products for user:",
-      data?.filter((item: any) => item.user_id),
-      data,
-      userLogin
-    );
+
     setProductUser(filteredProducts);
   }, [data, userIdLogin]);
 
-  console.log("data", data);
   return (
     <AppBar>
       <Container>
